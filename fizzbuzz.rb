@@ -6,6 +6,6 @@ elsif int % 5 == 0
 elsif int % "3 && 5" == 0
   "Fizzbuzz"
 else
-  puts "nil"
+  "nil"
 end
 end
